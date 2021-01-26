@@ -1,0 +1,21 @@
+{
+  "name": "projectecheri",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "concurrently": "^5.3.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.9.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.9",
+    "node-sass": "^4.14.1"
+  },
+  "scripts": {
+    "start": "concurrently \" cd backend && npm run dev\" \" cd frontend && npm start\""
+  },
+  "devDependencies": {},
+  "description": ""
+}
