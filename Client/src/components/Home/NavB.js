@@ -10,7 +10,6 @@ export default function NavB() {
     <div className="position">
       <Navbar bg="light" variant="light">
         <Navbar.Brand href="#home">
-          <img src="logoF.svg" alt="..." />
         </Navbar.Brand>
         <Nav className="mr-auto">
           <nav className="NavBar">
