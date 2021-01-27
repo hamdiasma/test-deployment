@@ -14,7 +14,7 @@ export default function Uploaded() {
   };
  
   return (
-    <div class="zone">
+    <div className="zone">
       <ImageUploading
         multiple
         value={images}

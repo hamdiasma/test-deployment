@@ -13,7 +13,7 @@ export default function Deconnexion() {
           <a href="/" className="menu-item"> <i className="fa fa-bar-chart" /> </a>
           <a href="/" className="menu-item"> <i className="fa fa-plus" /> </a>
           <a href="/" className="menu-item"> <i className="fa fa-heart" /> </a>
-          <button className="menu-item"> <i class="fa fa-power-off" /></button>
+          <button className="menu-item"> <i className="fa fa-power-off" /></button>
         </nav>
         {/* filters */}
         <svg xmlns="http://www.w3.org/2000/svg" version="1.1">

@@ -65,8 +65,8 @@ export default function Contact() {
             <Row>
               
      <Col>
-     <div class="but">
-       <span class="bttn effect04" data-sm-link-text=" up" target="_blank" onClick={onClickup } > <span>Sign </span> </span>
+     <div className="but">
+       <span className="bttn effect04" data-sm-link-text=" up" target="_blank" onClick={onClickup } > <span>Sign </span> </span>
       
      </div>
      </Col>
